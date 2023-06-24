@@ -1,0 +1,23 @@
+circle{
+    fill : #fc6f03;
+    opacity: 0.5;
+}
+.line-path{
+    fill:  gold;
+    stroke:  #fc6f03 ;
+    stroke-width: 2;
+    stroke-linejoin: round;
+}
+text{
+    font-size: 1.4em;
+    font-family:  sans-serif;
+}
+.tick text {
+    fill : #1be0ac;
+}
+.tick line{
+   stroke : #c4a80e;
+}
+.lable{
+    font-size: 2.5em;
+}

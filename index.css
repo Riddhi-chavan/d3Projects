@@ -1,0 +1,172 @@
+body {
+    background-color: rgb(7, 68, 138);
+}
+
+.box {
+    background-color: rgb(243, 239, 232);
+    width: 70em;
+    height: 90em;
+    margin: auto;
+    padding: auto;
+    border: solid 7px rgb(0, 0, 0);
+    border-radius: 10px;
+
+}
+
+#title {
+    font-size: 3em;
+    text-align: center;
+    margin-top: 10px;
+    background-color: grey;
+    border-bottom:  solid 3px black;
+    border-top:  solid 3px black;
+    color: white;
+    padding: 10px;
+
+}
+
+#smily {
+    border-radius: 60%;
+    width: 150px;
+    height: 150px;
+    margin-left: 400px;
+    margin-top: 50px;
+    border: solid black;
+
+}
+
+#smilelink {
+    font-size: 30px;
+    margin-left: 70px;
+    border: solid black;
+    position: absolute;
+    margin-top: 100px;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(7, 68, 138);
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+
+}
+
+#map {
+    border-radius: 60%;
+    width: 150px;
+    height: 150px;
+    margin-left: 400px;
+    margin-top: 50px;
+    border: solid black;
+}
+
+#maplink {
+    font-size: 30px;
+    margin-left: 70px;
+    border: solid black;
+    position: absolute;
+    margin-top: 100px;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(7, 68, 138);
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+
+}
+
+#Areachart {
+    border-radius: 60%;
+    width: 150px;
+    height: 150px;
+    margin-left: 400px;
+    margin-top: 50px;
+    border: solid black;
+}
+
+#AreaChartlink {
+    font-size: 30px;
+    margin-left: 70px;
+    border: solid black;
+    position: absolute;
+    margin-top: 100px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(7, 68, 138);
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+
+}
+
+#bargragh {
+    border-radius: 60%;
+    width: 150px;
+    height: 150px;
+    margin-left: 400px;
+    margin-top: 50px;
+    border: solid black;
+}
+
+#bargraghlink {
+    font-size: 30px;
+    margin-left: 70px;
+    border: solid black;
+    position: absolute;
+    margin-top: 100px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(7, 68, 138);
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+#world {
+    border-radius: 60%;
+    width: 150px;
+    height: 150px;
+    margin-left: 400px;
+    margin-top: 50px;
+    border: solid black;
+}
+
+#worldlink {
+    font-size: 30px;
+    margin-left: 70px;
+    border: solid black;
+    position: absolute;
+    margin-top: 100px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(7, 68, 138);
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+}
+#Plot{
+    border-radius: 60%;
+    width: 150px;
+    height: 150px;
+    margin-left: 400px;
+    margin-top: 50px;
+    border: solid black;
+}
+#plotlink{
+    font-size: 30px;
+    margin-left: 70px;
+    border: solid black;
+    position: absolute;
+    margin-top: 100px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(7, 68, 138);
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+}
